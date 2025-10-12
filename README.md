@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://github-mahar.github.io/My_Portfolio" target="_blank">MGM DEV</a>
+  <a href="https://my-portfolio-nine-sepia-23.vercel.app/" target="_blank">MGM DEV</a>
 </h2>
 
 <div align="center">
@@ -31,14 +31,14 @@
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own.  
-If you like it, please give me proper credit by linking back to [github-mahar](https://github.com/github-mahar/My_Portfolio).  
+If you like it, please give me proper credit by linking back to [github-mahar](https://my-portfolio-nine-sepia-23.vercel.app/).  
 Thanks!
 
 ---
 
 ## 🛠 Built With
 
-My personal portfolio — [MGM DEV](https://github-mahar.github.io/My_Portfolio) — showcases my skills, projects, and achievements.<br/>
+My personal portfolio — [MGM DEV](https://my-portfolio-nine-sepia-23.vercel.app/) — showcases my skills, projects, and achievements.<br/>
 
 This project was built using the following technologies:
 
