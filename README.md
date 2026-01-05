@@ -21,9 +21,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/github-mahar/My_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/github-mahar/Aliyan_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/github-mahar/My_Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/github-mahar/Aliyan_Portfolio/issues">Request Feature</a>
 </h3>
 
 ---
@@ -31,14 +31,14 @@
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own.  
-If you like it, please give me proper credit by linking back to [github-mahar](https://my-portfolio-nine-sepia-23.vercel.app/).  
+If you like it, please give me proper credit by linking back to [github-mahar](https://aliyan-portfolio-chi.vercel.app/).  
 Thanks!
 
 ---
 
 ## 🛠 Built With
 
-My personal portfolio — [MGM DEV](https://my-portfolio-nine-sepia-23.vercel.app/) — showcases my skills, projects, and achievements.<br/>
+My personal portfolio — [MGM DEV](https://aliyan-portfolio-chi.vercel.app/) — showcases my skills, projects, and achievements.<br/>
 
 This project was built using the following technologies:
 
