@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://my-portfolio-nine-sepia-23.vercel.app/" target="_blank">MGM DEV</a>
+  <a href="https://aliyan-portfolio-chi.vercel.app/" target="_blank">MGM DEV</a>
 </h2>
 
 <div align="center">
@@ -15,7 +15,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/github-mahar/My_Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/github-mahar/My_Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/github-mahar/Aliyan_Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
