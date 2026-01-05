@@ -21,9 +21,9 @@ function Projects() {
             <ProjectCard
               imgPath={ecom}
               isBlog={false}
-              title="E-Commerce website"
-              description="A sleek and responsive eCommerce website for showcasing and selling cutting-edge tech gadgets with modern UI and smooth user experience."
-              demoLink="https://6863f824cba1fa68a6b94488--comfy-fox-78e511.netlify.app/"
+              title="Rangeen Zaiqay"
+              description="Rangeen Zaiqay is a vibrant restaurant management system featuring a centralized admin dashboard for real-time order tracking, revenue monitoring, and menu management."
+              
             />
           </Col>
 
@@ -31,10 +31,9 @@ function Projects() {
             <ProjectCard
               imgPath={indexwise}
               isBlog={false}
-              title="IndexWise Research"
-              description="A professional research and writing service website offering expert thesis review, proofreading, and academic formatting with clarity, precision, and confidentiality."
-              ghLink="https://github.com/github-mahar/IndexWise-Research.git"
-              demoLink="https://github-mahar.github.io/IndexWise-Research/"  
+              title="Weather App"
+              description="A vibrant and minimalist weather dashboard designed for intuitive real-time climate tracking and air quality monitoring."
+              ghLink="https://github.com/ali786-c/WeatherApp.git"  
             />
           </Col>
         </Row>

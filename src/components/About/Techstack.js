@@ -14,6 +14,7 @@ import {
   DiSass,
   DiJavascript,
   DiHtml5,
+  
 } from "react-icons/di";
 import {
   SiRedis,
@@ -22,7 +23,12 @@ import {
   SiSolidity,
   SiPostgresql,
   SiTailwindcss,
+  SiAndroidstudio,
+  SiKotlin,
+  SiFlutter,
+  SiJetpackcompose,
 } from "react-icons/si";
+import { BsFiletypeXml } from "react-icons/bs";
 import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
@@ -32,16 +38,16 @@ function Techstack() {
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+        <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <SiFlutter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
+        <SiKotlin />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <BsFiletypeXml/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
@@ -50,16 +56,13 @@ function Techstack() {
         <DiCss3 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiBootstrap />
+        <SiJetpackcompose />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiSass />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
