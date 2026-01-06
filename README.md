@@ -19,6 +19,7 @@
 
 </center>
 
+
 <h3 align="center">
     🔹
     <a href="https://github.com/github-mahar/Aliyan_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
